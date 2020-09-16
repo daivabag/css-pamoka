@@ -1,0 +1,60 @@
+.container {
+     display: flex;
+ }
+
+
+ .mazas{
+     background-color: aquamarine;
+     width: 200px;
+     height:150px;
+     margin: 5px;
+ }
+
+.container-perkelti{
+  display: flex;
+    flex-wrap: wrap;
+}
+
+
+ .kita{
+     background-color: aquamarine;
+     width: 200px;
+     height:150px;
+     margin: 5px;
+ }
+
+.viduryje {
+    display: flex;
+    background-color: #f57e2a;
+    width: 200px;
+    height: 150px;
+    margin: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-family: "Ranchers", cursive;
+    color: #373fff;
+}
+
+
+p {
+    font-family: "Ranchers", cursive;
+}
+
+#vidurys {
+ display: flex;
+ height: 300px;
+    background-color: aquamarine;
+
+    }
+
+
+
+#spausti {
+  width: 100px;
+  height:100px;
+  margin: auto;
+
+}
